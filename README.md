@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Interesting Article
+[AMD MI300x GPUs with GEMM tuning improves throughput and latency by up to 7.2x](https://news.ycombinator.com/item?id=40828394)
+## My Thoughts
+I came across this article during my internship trying to gemm tune some LLMs, and found the heated arguments under this thread to be immensely entertaining. Although the topic here doesn't directly relate to software engineering, I do think that it takes many skilled engineers to come up with solutions to these problems, and the fact that people would debate on whether AMD or NVIDIA GPUs are better just proves that the competition is cutting very close. Reading the thread, it's also obvious that many hold strong beliefs for a certain model/GPU/method, which is funny because every time someone expresses their disagreement to the previous thread, someone else replies with another disagreement. 
